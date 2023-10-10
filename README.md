@@ -1,2 +1,2 @@
-# dw3_2023
+# lp2
 Lenguaje de Programación II
